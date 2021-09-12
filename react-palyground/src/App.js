@@ -18,6 +18,14 @@ function App() {
           Learn React
         </a>
        <FloatComp></FloatComp>
+       <div className="layout">
+         <div className="top-container">top</div>
+         <div className="main-container">
+         <div className="container">contentcontentcontentcontentcontentcontentcontentcontent
+         ntcontentcontentcontentcontentntcontentcontentcontentcontentntcontentcontentcontentcontentntcontentcontentcontentcontentntcontentcontentcontentcontentntcontentcontentcontentcontentntcontentcontentcontentcontentcontentcontentcontentcontentcontent</div>
+         <div className="foot-container">footer</div>
+         </div>
+       </div>
       </header>
     </div>
   );
